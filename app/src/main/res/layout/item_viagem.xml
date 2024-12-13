@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="8dp"
+    android:layout_margin="8dp"
+    android:elevation="4dp">
+
+
+    <TextView
+        android:id="@+id/tvDataHora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data e Hora"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:paddingBottom="4dp" />
+
+
+    <TextView
+        android:id="@+id/tvMotorista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Motorista"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:paddingBottom="4dp" />
+
+
+    <TextView
+        android:id="@+id/tvOrigem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Origem"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:paddingBottom="4dp" />
+
+
+    <TextView
+        android:id="@+id/tvDestino"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Destino"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:paddingBottom="4dp" />
+
+
+    <TextView
+        android:id="@+id/tvDistancia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Distância"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:paddingBottom="4dp" />
+
+
+    <TextView
+        android:id="@+id/tvDuracao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Duração"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:paddingBottom="4dp" />
+
+
+    <TextView
+        android:id="@+id/tvValor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Valor"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:paddingBottom="4dp" />
+
+</LinearLayout>

@@ -6,7 +6,8 @@
 
 # Teste Técnico Shopper
 
-Este projeto é uma aplicação Android desenvolvida como parte de um teste técnico para a Shopper, utilizando tecnologias como Retrofit, Google Maps API e Android Jetpack.
+Este projeto é uma aplicação Android desenvolvida como parte de um
+teste técnico para a Shopper, utilizando tecnologias como Retrofit, Google Maps API e Android xml.
 
 ## Configuração Inicial
 

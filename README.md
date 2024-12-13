@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/ac318d79-ea28-4105-aa67-4d1a8b2a47be)
+![image](https://github.com/user-attachments/assets/07996ae0-96c9-4277-b4f8-b4e4d55feb84)
+![image](https://github.com/user-attachments/assets/a633f95c-a45e-4211-bd44-87128392a50d)
+![image](https://github.com/user-attachments/assets/2fc8fac1-2e3e-46ee-bf64-32adeaddbacb)
+
+
 # Teste Técnico Shopper
 
 Este projeto é uma aplicação Android desenvolvida como parte de um teste técnico para a Shopper, utilizando tecnologias como Retrofit, Google Maps API e Android Jetpack.

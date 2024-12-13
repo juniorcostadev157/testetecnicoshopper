@@ -23,6 +23,7 @@
         android:theme="@style/Theme.Testetecnicoshopper"
         tools:targetApi="31">
 
+        <!-- Chave da Api Google Maps aqui  - Defina a chave no value do meta-data-->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="" />
